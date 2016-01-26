@@ -1,0 +1,1 @@
+module.exports = 'YOUR_OPEN_WEATHER_MAP_API_KEY';
