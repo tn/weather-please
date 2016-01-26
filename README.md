@@ -5,7 +5,8 @@
 * Create account on [openweathermap.org](http://openweathermap.org)
 * Copy your api key
 * Change `api-key.js.example` to `api-key.js` and replace placeholder to your api key.
-* Install package globally `npm i -g`
+* Install dependencies `npm install`
+* Link package `npm link`
 
 ## Use
 ```bash
